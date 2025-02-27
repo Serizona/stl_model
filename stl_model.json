@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "name": "Hepatic Veins",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepatic%20veins.stl"
+    },
+    {
+      "name": "Hepatic Portal Veins",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepatic%20portal%20veins.stl"
+    },
+    {
+      "name": "Liver",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/liver.stl"
+    },
+    {
+      "name": "Liver Mass 1",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/liver%20mass%201.stl"
+    },
+    {
+      "name": "Liver Mass 2",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/liver%20mass%202.stl"
+    },
+    {
+      "name": "SVC",
+      "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/svc.stl"
+    }
+  ]
+}
