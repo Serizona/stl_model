@@ -2,21 +2,38 @@
   "models": [
     { "name": "Hepatic Portal Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticportalveins.stl",
-      "color": "#0000ff" },
+      "color": "#0000ff",
+      "opacity": 1
+     },
     { "name": "Hepatic Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticveins.stl",
-    "color": "#0093ca" },
+    "color": "#0093ca",
+    "opacity": 1
+  
+  },
     { "name": "Liver", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/liver.stl",
-     "color": "#dd8265"},
+     "color": "#dd8265",
+     "opacity": 0.4
+    
+    },
     { "name": "Liver Mass 1", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/livermass1.stl",
-    "color": "#90ee90" },
+    "color": "#90ee90",
+    "opacity": 1
+  
+  },
     { "name": "Liver Mass 2",
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/livermass2.stl",
-    "color": "#90ee90"},
+    "color": "#90ee90",
+    "opacity": 1
+  
+  },
     { "name": "SVC", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/svc.stl",
-    "color": "#0097ce" }
+    "color": "#0097ce",
+    "opacity": 1 
+  
+  }
   ]
 }
