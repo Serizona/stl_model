@@ -2,7 +2,7 @@
   "models": [
     { "name": "Hepatic Portal Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticportalveins.stl",
-      "color": "#1f8ed8",
+      "color": "#29d837",
       "opacity": 1,
       "smoothing": 2
      },
