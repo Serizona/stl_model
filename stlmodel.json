@@ -2,13 +2,13 @@
   "models": [
     { "name": "Hepatic Portal Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticportalveins.stl",
-      "color": "#b79cdc",
+      "color": "#55bcff",
       "opacity": 1,
       "smoothing": 2
      },
     { "name": "Hepatic Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticveins.stl",
-    "color": "#55bcff",
+    "color": "#b79cdc",
     "opacity": 1,
     "smoothing": 2
   
@@ -36,7 +36,7 @@
   },
     { "name": "SVC", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/svc.stl",
-    "color": "#0097ce",
+    "color": "#b79cdc",
     "opacity": 1,
     "smoothing": 2
   
