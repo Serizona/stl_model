@@ -8,7 +8,7 @@
      },
     { "name": "Hepatic Veins", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/hepaticveins.stl",
-    "color": "#b79cdc",
+    "color": "#7d68a8",
     "opacity": 1,
     "smoothing": 2
   
@@ -36,7 +36,7 @@
   },
     { "name": "SVC", 
       "url": "https://raw.githubusercontent.com/Serizona/stl_model/main/svc.stl",
-    "color": "#b79cdc",
+    "color": "#7d68a8",
     "opacity": 1,
     "smoothing": 2
   
