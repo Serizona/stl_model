@@ -1,0 +1,40 @@
+{
+    "models": [
+        {
+            "name": "hepaticportalveins.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/hepaticportalveins.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        },
+        {
+            "name": "hepaticveins.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/hepaticveins.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        },
+        {
+            "name": "liver.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/liver.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        },
+        {
+            "name": "livermass1.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/livermass1.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        },
+        {
+            "name": "livermass2.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/livermass2.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        },
+        {
+            "name": "svc.stl",
+            "url": "https://raw.githubusercontent.com/Serizona/BF_HV/main/svc.stl",
+            "color": "#ba2719",
+            "opacity": 1.0
+        }
+    ]
+}
